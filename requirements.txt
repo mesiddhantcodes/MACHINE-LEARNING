@@ -1,2 +1,2 @@
 pip==23.2.1
-Scikit-learn
+scikit-learn==1.2.2
